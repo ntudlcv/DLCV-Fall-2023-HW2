@@ -1,5 +1,5 @@
 # Download dataset
-gdown 1YxkObGDlqZM0-9Zq-QMjk7q1vND4UJl3 -O hw2_data.zip
+gdown 1XUl4tqq3kKyWRe2lyHZ8s7U9yc_x3mWT -O hw2_data.zip
 
 # Unzip the downloaded zip file
 unzip ./hw2_data.zip -d ./
