@@ -22,7 +22,6 @@ Note that using packages with different versions will very likely lead to compat
 
 # Q&A
 If you have any problems related to HW2, you may
-- Use TA hours
-    -Fri. 11:20~12.10 in MK514.
+- Use TA hours: Fri. 11:20~12.10 in MK514.
 - Contact TAs by e-mail ([ntudlcv@gmail.com](mailto:ntudlcv@gmail.com))
 - Post your question under hw2 discuss section in NTU COOL
